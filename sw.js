@@ -1,4 +1,4 @@
-const CACHE_NAME = "diesel-v3-cache-v1";
+const CACHE_NAME = "diesel-v3-cache-v1.2";
 const CORE_ASSETS = [
   "./",
   "./index.html",
