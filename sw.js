@@ -1,4 +1,4 @@
-const CACHE_NAME = "diesel-v3-cache-v1.14-shared-machines";
+const CACHE_NAME = "diesel-v3-cache-v1.15-shared-machines";
 const CORE_ASSETS = [
   "./",
   "./index.html",
